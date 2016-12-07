@@ -164,7 +164,12 @@ a:visited {
 #diane-vu-card {
   background-image: url("../assets/img/diane-vu.jpg");
 }
-
+#suhaib-la-cover{
+  background-image: url("http://i.imgur.com/7DITWcC.png");
+}
+#suhaib-la-card{
+  background-image: url("http://i.imgur.com/ZYQoAQm.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
